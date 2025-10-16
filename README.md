@@ -19,8 +19,8 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-Python: 3.12
-Youtube: https://youtu.be/bfVTqvk95N8
+- Python: 3.12
+- Youtube: https://youtu.be/bfVTqvk95N8
 
 ---
 
