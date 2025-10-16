@@ -19,7 +19,8 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-Youtube: TODO
+Python: 3.12
+Youtube: https://youtu.be/bfVTqvk95N8
 
 ---
 
@@ -38,8 +39,8 @@ Colocando paneles de 1x2
 27 27 28 28 24 -1 -1 -1 -1
 Se colocaron 14 paneles
 ```
-> Los `-1` representan las áreas ocupadas del techo.
 
+> Los `-1` representan las áreas ocupadas del techo.
 
 ---
 
@@ -47,3 +48,5 @@ Se colocaron 14 paneles
 
 - Supuse que los paneles siempre tienen anchos y alturas enteras, para simplificar la lógica del código (use matrices binarias con ceros representando espacios libres, y un id entero para cada panel colocado).
 - Supuse que las rotaciones solo pueden ser de 90 grados (no diagonales o ángulos raros).
+
+> PD: Me tardé aproximadamente 19 minutos en la solución base, 7 minutos en el bonus y unos 12 minutos en documentar y hacer el video.
